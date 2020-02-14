@@ -1,4 +1,4 @@
-# Estutura de dados EP4 Curso Análise e desenvolvimento de sistemas (FATEC São José dos Campos)
+# Estrutura de dados EP4 Curso Análise e desenvolvimento de sistemas (FATEC São José dos Campos)
 
 Análise de dados do INEP sobre pessoas que se matriculam no ENEM e quem realmente faz a prova
 Mostramos a quantidade de matrículas por ano, a quantidade de alunos presentes no primeiro e segundo dia,
